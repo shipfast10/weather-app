@@ -72,10 +72,5 @@ Changes weather icon based on condition (e.g., Clear, Rain, etc.).
 
 Handles city not found error (status 404) and shows a custom error message.
 
-🙋‍♂️ Author
-Your Name
-🔗 GitHub
-📧 your.email@example.com
-
 📄 License
 This project is open-source and available under the MIT License.
